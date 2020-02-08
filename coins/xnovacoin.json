@@ -1,0 +1,7 @@
+{
+    "name": "XNovacoin",
+    "symbol": "XNC",
+    "algorithm": "cpupower",
+    "peerMagic": "d3d9e8d4",
+    "peerMagicTestnet": "9496dcce"
+}
