@@ -31,11 +31,7 @@
         "url": "https://github.com/zone117x/node-open-mining-portal.git"
     },
     "dependencies": {
-<<<<<<< HEAD
         "stratum-pool": "git://github.com/myxnova/node-stratum-pool.git",
-=======
-        "stratum-pool": "https://github.com/myxnova/node-stratum-pool.git",
->>>>>>> 18a7aa87dfdba67d122d5d69fb7e7064037b832f
         "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "0.12.1",
